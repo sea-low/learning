@@ -44,4 +44,3 @@ $ npm run lint
 
 # Coverage Link
 https://coveralls.io/github/brothergiez/basic-project-express-monolith?branch=master
-

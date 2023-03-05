@@ -1,6 +1,7 @@
 const homeWebHandler = (req, res) => {
   const data = {
-    message: 'Coming Soon!'
+    message: 'Cuming Soon!',
+    deez: 'Nutz'
   };
   res.render('web/home/index', data);
 };
